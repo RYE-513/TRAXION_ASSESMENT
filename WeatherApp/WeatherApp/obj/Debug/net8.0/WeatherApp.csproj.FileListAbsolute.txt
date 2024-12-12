@@ -1,0 +1,34 @@
+C:\Users\Rye\Desktop\WeatherApp\WeatherApp\bin\Debug\net8.0\WeatherApp.exe
+C:\Users\Rye\Desktop\WeatherApp\WeatherApp\bin\Debug\net8.0\WeatherApp.deps.json
+C:\Users\Rye\Desktop\WeatherApp\WeatherApp\bin\Debug\net8.0\WeatherApp.runtimeconfig.json
+C:\Users\Rye\Desktop\WeatherApp\WeatherApp\bin\Debug\net8.0\WeatherApp.dll
+C:\Users\Rye\Desktop\WeatherApp\WeatherApp\bin\Debug\net8.0\WeatherApp.pdb
+C:\Users\Rye\Desktop\WeatherApp\WeatherApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Rye\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0\WeatherApp.csproj.AssemblyReference.cache
+C:\Users\Rye\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0\WeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rye\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0\WeatherApp.AssemblyInfoInputs.cache
+C:\Users\Rye\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0\WeatherApp.AssemblyInfo.cs
+C:\Users\Rye\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\Rye\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0\WeatherApp.csproj.Up2Date
+C:\Users\Rye\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0\WeatherApp.dll
+C:\Users\Rye\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0\refint\WeatherApp.dll
+C:\Users\Rye\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0\WeatherApp.pdb
+C:\Users\Rye\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0\WeatherApp.genruntimeconfig.cache
+C:\Users\Rye\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0\ref\WeatherApp.dll
+C:\Users\Rye\Desktop\Traxion Assesment\WeatherApp\WeatherApp\bin\Debug\net8.0\WeatherApp.exe
+C:\Users\Rye\Desktop\Traxion Assesment\WeatherApp\WeatherApp\bin\Debug\net8.0\WeatherApp.deps.json
+C:\Users\Rye\Desktop\Traxion Assesment\WeatherApp\WeatherApp\bin\Debug\net8.0\WeatherApp.runtimeconfig.json
+C:\Users\Rye\Desktop\Traxion Assesment\WeatherApp\WeatherApp\bin\Debug\net8.0\WeatherApp.dll
+C:\Users\Rye\Desktop\Traxion Assesment\WeatherApp\WeatherApp\bin\Debug\net8.0\WeatherApp.pdb
+C:\Users\Rye\Desktop\Traxion Assesment\WeatherApp\WeatherApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Rye\Desktop\Traxion Assesment\WeatherApp\WeatherApp\obj\Debug\net8.0\WeatherApp.csproj.AssemblyReference.cache
+C:\Users\Rye\Desktop\Traxion Assesment\WeatherApp\WeatherApp\obj\Debug\net8.0\WeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rye\Desktop\Traxion Assesment\WeatherApp\WeatherApp\obj\Debug\net8.0\WeatherApp.AssemblyInfoInputs.cache
+C:\Users\Rye\Desktop\Traxion Assesment\WeatherApp\WeatherApp\obj\Debug\net8.0\WeatherApp.AssemblyInfo.cs
+C:\Users\Rye\Desktop\Traxion Assesment\WeatherApp\WeatherApp\obj\Debug\net8.0\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\Rye\Desktop\Traxion Assesment\WeatherApp\WeatherApp\obj\Debug\net8.0\WeatherApp.csproj.Up2Date
+C:\Users\Rye\Desktop\Traxion Assesment\WeatherApp\WeatherApp\obj\Debug\net8.0\WeatherApp.dll
+C:\Users\Rye\Desktop\Traxion Assesment\WeatherApp\WeatherApp\obj\Debug\net8.0\refint\WeatherApp.dll
+C:\Users\Rye\Desktop\Traxion Assesment\WeatherApp\WeatherApp\obj\Debug\net8.0\WeatherApp.pdb
+C:\Users\Rye\Desktop\Traxion Assesment\WeatherApp\WeatherApp\obj\Debug\net8.0\WeatherApp.genruntimeconfig.cache
+C:\Users\Rye\Desktop\Traxion Assesment\WeatherApp\WeatherApp\obj\Debug\net8.0\ref\WeatherApp.dll

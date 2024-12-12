@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<nlog xmlns="http://www.nlog-project.org/schemas/NLog.xsd"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      autoReload="true"
+      throwExceptions="false"
+      internalLogLevel="Off" internalLogFile="c:\temp\nlog-internal.log">
+
+	<!-- optional, add some filters -->
+	<filters>
+		<!-- filter out log messages below the specified level -->
+		<when condition="level &lt;= LogLevel.Debug" action="Ignore" />
+	</filters>
+
+	<!-- set logging properties -->
+	<targets>
+		<!-- file target -->
+		<target xsi:type="FileTarget"
+				name="logfile"
+				fileName="logs/${shortdate}.log"
+				layout="${longdate} ${uppercase:${level}} ${message} ${exception}"
+				keepFileOpen="false"
+				encoding="utf-8" />
+	</targets>
+
+	<rules>
+		<!-- log all messages -->
+		<logger name="*" minlevel="Info" writeTo="logfile" />
+	</rules>
+</nlog>
